@@ -1,6 +1,5 @@
 export {
   NextUIProvider as nextUIProvider,
-  useTheme as useTheme_,
   AvatarGroup as avatarGroup,
   AvatarIcon as avatarIcon,
   Accordion as accordion,
