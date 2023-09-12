@@ -68,11 +68,7 @@ module NextUI.NextUI
   , tableRow
   , tabs
   , textarea
-  , themeClassName
-  , themeIsDark
   , tooltip
-  , useNextTheme
-  , useTheme
   , user
   )
   where
