@@ -1,5 +1,6 @@
 export {
   NextUIProvider as nextUIProvider,
+  Avatar as Avatar,
   AvatarGroup as avatarGroup,
   AvatarIcon as avatarIcon,
   Accordion as accordion,
