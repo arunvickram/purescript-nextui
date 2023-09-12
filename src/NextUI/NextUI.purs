@@ -28,7 +28,7 @@ module NextUI.NextUI
   , link
   , listbox
   , listboxItem
-  , listboxSelection
+  , listboxSection
   -- , loading
   , navbar
   , navbarBrand
@@ -123,7 +123,7 @@ foreign import link :: forall props. ReactComponent { | props }
 
 foreign import listbox :: forall props. ReactComponent { | props }
 foreign import listboxItem :: forall props. ReactComponent { | props }
-foreign import listboxSelection :: forall props. ReactComponent { | props }
+foreign import listboxSection :: forall props. ReactComponent { | props }
 
 foreign import navbar :: forall props. ReactComponent { | props }
 foreign import navbarBrand :: forall props. ReactComponent { | props }

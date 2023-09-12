@@ -27,7 +27,7 @@ export {
   Link as link,
   Listbox as listbox,
   ListboxItem as listboxItem,
-  ListboxSelection as listboxSelection,
+  ListboxSection as listboxSection,
   Navbar as navbar, 
   NavbarBrand as navbarBrand, 
   NavbarContent as navbarContent, 
