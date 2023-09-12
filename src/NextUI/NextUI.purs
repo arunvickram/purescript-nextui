@@ -67,8 +67,6 @@ module NextUI.NextUI
   , tableHeader
   , tableRow
   , tabs
-  , text
-  , textArea
   , textarea
   , themeClassName
   , themeIsDark
