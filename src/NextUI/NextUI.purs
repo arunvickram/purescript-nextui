@@ -102,6 +102,8 @@ foreign import cardFooter :: forall props. ReactComponent { | props }
 foreign import checkbox :: forall props. ReactComponent { | props }
 foreign import checkboxGroup :: forall props. ReactComponent { | props }
 
+foreign import chip :: forall props. ReactComponent { | props }
+
 foreign import circularProgress :: forall props. ReactComponent { | props }
 
 foreign import code :: forall props. ReactComponent { | props }

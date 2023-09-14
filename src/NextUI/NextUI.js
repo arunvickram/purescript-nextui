@@ -14,6 +14,7 @@ export {
   CardFooter as cardFooter,
   CheckboxGroup as checkboxGroup, 
   Checkbox as checkbox,
+  Chip as chip,
   CircularProgress as circularProgress,
   Code as code,
   Divider as divider,
