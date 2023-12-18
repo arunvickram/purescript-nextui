@@ -89,7 +89,11 @@ foreign import avatarGroup :: forall props. ReactComponent { | props }
 foreign import accordion :: forall props. ReactComponent { | props }
 foreign import accordionItem :: forall props. ReactComponent { | props }
 
+foreign import autocomplete :: forall props. ReactComponent { | props }
+
 foreign import badge :: forall props. ReactComponent { | props }
+
+foreign import breadcrumbs :: forall props. ReactComponent { | props }
 
 foreign import button :: forall props. ReactComponent { | props }
 foreign import buttonGroup :: forall props. ReactComponent { | props }
@@ -153,6 +157,8 @@ foreign import selectSection :: forall props. ReactComponent { | props }
 foreign import selectItem :: forall props. ReactComponent { | props }
 
 foreign import skeleton :: forall props. ReactComponent { | props }
+
+foreign import slider :: forall props. ReactComponent { | props }
 
 foreign import spacer :: forall props. ReactComponent { | props }
 
